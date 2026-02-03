@@ -49,14 +49,6 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋💗💕"  // These will bounce around
-        thank youBtn: "Thank You!",                                             // Text for "Thank You" button
-    },
-
-      // Messages that appear after the "celebration"
-    celebration: {
         title: "DATE PLAN! 🗓️💗",
         message: "10:30 Be ready and I'll pick you up",
         message: "11:00 PONTO LOUNGE",
@@ -64,9 +56,10 @@ const CONFIG = {
         message: "12:00 Get your NAILS💅🏻 done",
         message: "14:00 Extra Time",
         message: "15:00 Drop you off to work",
-        emojis: "💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "💖🤗💝💋💗💕"  // These will bounce around
+                                                 
     },
-    
+
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
