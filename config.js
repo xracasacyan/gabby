@@ -53,14 +53,7 @@ const CONFIG = {
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
-    // Messages that appear after "celebration"
- fourth: {
-            text: "DATE PLAN", 
-            text: "Be ready and I'll pick you up by 11AM", 
-            text: "Eat at PONTO LOUNGE by 11:30AM",
-            text: "Get your NAILS💅🏻 done by 12:20PM", 
-            text: "Drop you off at work", 
-            
+    
         }
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
