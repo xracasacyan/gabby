@@ -54,7 +54,7 @@ const CONFIG = {
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
     
-        }
+
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
