@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🦫', '🐼']                       // Cute bear emojis
+        bears: ['🦫', '🐼', '🧸']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "DATE PLAN! 🗓️💗",
         message: "10:30 Be ready and I'll pick you up", 
-                 "11:00 PONTO LOUNGE", 
+                "11:00 PONTO LOUNGE", 
                  "11:40 Get DRINKS",
         emojis:  "12:00 Get your NAILS💅🏻 done", 
                  "14:00 Extra Time",
@@ -87,7 +87,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dpxqtgmus/video/upload/v1770116951/The_1975_-_About_You_Official_dhtemf.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.8                        // Volume level (0.0 to 1.0)
     }
 };
 
