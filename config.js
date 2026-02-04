@@ -1,10 +1,10 @@
 // ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
+// 💝 _ 💝
 // ============================================
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
-    // Example: "Jade", "Sarah", "Mike"
+    // Example: "_", "_", "_"
     valentineName: "My Baby, My Gabby",
 
     // The title that appears in the browser tab
@@ -50,13 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "DATE PLAN! 🗓️💗",
-        message: "10:30 Be ready and I'll pick you up",
-        message: "11:00 PONTO LOUNGE",
-        message: "11:40 Get DRINKS",
-        message: "12:00 Get your NAILS💅🏻 done",
-        message: "14:00 Extra Time",
-        message: "15:00 Drop you off to work",
-        emojis: "💖🤗💝💋💗💕"  // These will bounce around
+        message: "10:30 Be ready and I'll pick you up", "11:00 PONTO LOUNGE", "11:40 Get DRINKS",
+        emojis: "12:00 Get your NAILS💅🏻 done", "14:00 Extra Time","15:00 Drop you off to work" // These will bounce around
                                                  
     },
 
