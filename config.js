@@ -50,8 +50,12 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "DATE PLAN! 🗓️💗",
-        message: "10:30 Be ready and I'll pick you up", "11:00 PONTO LOUNGE", "11:40 Get DRINKS",
-        emojis: "12:00 Get your NAILS💅🏻 done", "14:00 Extra Time","15:00 Drop you off to work" // These will bounce around
+        message: "10:30 Be ready and I'll pick you up", 
+                 "11:00 PONTO LOUNGE", 
+                 "11:40 Get DRINKS",
+        emojis:  "12:00 Get your NAILS💅🏻 done", 
+                 "14:00 Extra Time",
+                 "15:00 Drop you off to work" // These will bounce around
                                                  
     },
 
