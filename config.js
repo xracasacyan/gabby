@@ -47,15 +47,11 @@ const CONFIG = {
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
 
-    // Messages that appear after they say "Yes!"
-    celebration: {
-        title: "DATE PLAN! 🗓️💗",
-        message: "10:30 Be ready and I'll pick you up", 
-                "11:00 PONTO LOUNGE", 
-                 "11:40 Get DRINKS",
-        emojis:  "12:00 Get your NAILS💅🏻 done", 
-                 "14:00 Extra Time",
-                 "15:00 Drop you off to work" // These will bounce around
+   // Final Celebration
+celebration: {
+    title: "Yay! I'm the luckiest person...",     // Celebration title
+    message: "Now come get your gift...",          // Celebration message
+    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
                                                  
     },
 
